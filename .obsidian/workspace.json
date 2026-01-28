@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "4e4d35d6c7450316",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b81b4e19f9a0c20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1fc11f527a4ac4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文献调研/文献调研.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "文献调研"
+            }
+          },
+          {
+            "id": "5f5370e5551c225b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.5"
+            }
+          },
+          {
+            "id": "6937861d6d802e39",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.4"
+            }
+          },
+          {
+            "id": "38086f0e61c0acd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文献调研/文献调研2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "文献调研2"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60e700f8b81352f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9f3bf9e6ed97076",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc9188920776ef9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b01ef215431577af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "659a394f7186e510",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f0c71804af960dea",
+    "type": "split",
+    "children": [
+      {
+        "id": "dabb2dd61aae0934",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3a8e611e06404de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "文献调研/文献调研2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "文献调研2 的反向链接列表"
+            }
+          },
+          {
+            "id": "c48d0f9cf53bd7d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "文献调研/文献调研2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "文献调研2 的出链列表"
+            }
+          },
+          {
+            "id": "772162880d48e95a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d468baffeab9410f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "a1d088d415908fe8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "文献调研/文献调研2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "文献调研2 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "38086f0e61c0acd6",
+  "lastOpenFiles": [
+    "文献调研/文献调研2.md",
+    "文献调研/文献调研.md",
+    "文献调研/RecICL.2025.findings-acl.735.pdf",
+    "Pasted image 20260121150343.png",
+    "Pasted image 20260121140826.png",
+    "Pasted image 20260121140112.png",
+    "Pasted image 20260120221306.png",
+    "Pasted image 20260120212451.png",
+    "Pasted image 20260120212421.png",
+    "Pasted image 20260120212403.png",
+    "Pasted image 20260120194328.png",
+    "Pasted image 20260120192255.png",
+    "Pasted image 20260120192207.png",
+    "文献调研/LEGORecommendor_zh-CN.pdf",
+    "文献调研/nzpAA99.tmp",
+    "文献调研/经典实现.zip",
+    "文献调研/基于用户多兴趣建模的新闻推荐算法研究_电子版 - 副本.pdf",
+    "文献调研/nzpFE4B.tmp",
+    "文献调研/nzp5D2A.tmp",
+    "文献调研/经典实现/NCF神经协同过滤.pdf",
+    "文献调研/经典实现/LightGCN.pdf",
+    "文献调研/经典实现/NGCF.pdf",
+    "文献调研/经典实现/文献调研.md",
+    "Pasted.md",
+    "![[Pasted.md"
+  ]
+}
